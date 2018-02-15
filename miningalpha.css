@@ -6,6 +6,8 @@
 }
 
 textarea {
+  background-color: #323332;
+  color: #fff;
   padding 0px;
   borders: 0px;
   -webkit-overflow-scrolling: touch;
