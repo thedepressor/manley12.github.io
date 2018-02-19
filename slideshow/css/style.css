@@ -14,12 +14,11 @@ html,body {
 .slider-wrapper {
 	width: 100%;
 	height: 100%;
-	position: center;
 }
 
 .slide {
 	float: left;
-	position: center;
+	position: absolute;
 	size: cover;
 	width: 100%;
 	height: 100%;
