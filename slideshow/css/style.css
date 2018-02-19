@@ -17,13 +17,11 @@ html,body {
 }
 
 .slide {
-	float: left;
 	position: absolute;
 	top: 0;
 	left: 0;
 	right: 0;
 	bottom: 0;
-	margin: auto;
 	min-wdth: 50%;
 	min-height: 50%;
 	opacity: 0;
