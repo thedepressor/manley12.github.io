@@ -22,8 +22,8 @@ html,body {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	min-wdth: 50%;
-	min-height: 50%;
+	min-wdth: 100%;
+	min-height: 100%;
 	opacity: 0;
 	transition: opacity 3s linear;
 }
