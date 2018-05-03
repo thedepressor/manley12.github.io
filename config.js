@@ -1,8 +1,8 @@
 /* Must point to the API setup in your config.json file. */
-var api = "http://poolhost:8117";
+var api = "127.0.0.1:8117";
 
 /* Pool server host to instruct your miners to point to.  */
-var poolHost = "192.168.1.117";
+var poolHost = "127.0.0.1";
 
 /* IRC Server and room used for embedded KiwiIRC chat. */
 var irc = "";
