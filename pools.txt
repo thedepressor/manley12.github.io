@@ -1,5 +1,5 @@
 "pool_list" :
 [
-  {"pool_address" : "us.turtlepool.space:3333", "wallet_address" : "TRTLuxt9dreJob3HLaKqQ6godsB2z8o3pQyqrrheB19hf1Qbj2A4RCZ2a4o8hvsfaoKjiReDA4vT9dCu1rVjVp5rRTHxmdcEMSp", "rid_id" : "", "pool_password" : "hphome", "use_nicehash" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+  {"pool_address" : "192.168.1.117:3333", "wallet_address" : "TRTLuxt9dreJob3HLaKqQ6godsB2z8o3pQyqrrheB19hf1Qbj2A4RCZ2a4o8hvsfaoKjiReDA4vT9dCu1rVjVp5rRTHxmdcEMSp", "rid_id" : "", "pool_password" : "hphome", "use_nicehash" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 "currency" : "cryptonight_lite_v7",
