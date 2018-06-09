@@ -1,6 +1,6 @@
-var poolHost = "35.184.215.232";
+var poolHost = "turtle.psrcrypto.com";
 
-var api = "http://" + poolHost + ":8117";
+var api = "http://35.184.215.232:8117";
 
 var api_blockexplorer = "http://"+ poolHost +":11899";
 
