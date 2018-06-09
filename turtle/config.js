@@ -1,6 +1,6 @@
-var poolHost = "turtle.psrcrypto.com";
+var poolHost = "35.184.215.232";
 
-var api = "http://35.184.215.232:8117";
+var api = "http://" + poolHost + ":8117";
 
 var api_blockexplorer = "http://"+ poolHost +":11899";
 
@@ -17,7 +17,7 @@ var blockchainExplorer = "https://blocks.turtle.link/?hash={id}#blockchain_block
 var transactionExplorer = "https://blocks.turtle.link/?hash={id}#blockchain_transaction";
 
 function reloadPoolHostURLs(){
-    api = "http://35.184.215.232:8117";
+    api = "http://" + poolHost + ":8117";
     api_blockexplorer = "http://"+ poolHost +":11899";
     //blockchainExplorer = "http://"+ poolHost +"/?hash={id}#blockchain_block";
     //transactionExplorer = "http://"+ poolHost +"/?hash={id}#blockchain_transaction";
